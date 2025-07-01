@@ -6,7 +6,7 @@ Modified from a secondary distribution of lightbox2.
 
 - **Demos:** Visit the [MahouBox Demo](https://gan-fan-man.github.io/x/2025/06/27/mahoubox-demo.html)
 - **Releases and Changelog:** Viewable on the [Github Releases page](https://github.com/Gan-fan-man/mahoubox/releases)
-- **License:** Lightbox is licensed under the MIT License.
+- **License:** Mahoubox is licensed under the MIT License.
 
 by [Ganfan_man](https://github.com/gan-fan-man)
 
